@@ -1,4 +1,4 @@
-# Katalog Produk — UPI Store
+# Katalog Produk
 
 > Aplikasi desktop katalog produk berbasis **JavaFX 21** & **SQLite**. Berbeda dari aplikasi CRUD konvensional yang kaku berbasis tabel, aplikasi ini mengusung antarmuka modern berbasis kartu (*card grid*).
 
